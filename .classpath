@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/piax-ov-2.2.0.jar"/>
 	<classpathentry kind="lib" path="lib/piax-trans-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/simple-logx.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
